@@ -17,3 +17,11 @@ I used the simpy library in Python to build a simulation for reducing the SLAs g
 ### Final Project: Exercise Quality and Sleep Programs effect on Cancer
 
 I analyzed the effect of sleep programs and exercise quality on cancer patients fatigue and quality of life. See the code here [Exercise and Sleep](https://github.com/tstuart8/Final_Project)
+
+### Time Series Course
+
+Completed a time series course focused on Arima and Autoregression time series models. See the code here [Time Series](https://github.com/tstuart8/Time_Series_Class)
+
+### Computational and Graphical Methods
+
+Completed a course in computational and graphical methods in R. See some chart examples below.
