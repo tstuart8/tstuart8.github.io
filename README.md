@@ -25,3 +25,5 @@ Completed a time series course focused on Arima and Autoregression time series m
 ### Computational and Graphical Methods
 
 Completed a course in computational and graphical methods in R. See some chart examples below.
+
+![image](https://user-images.githubusercontent.com/9870275/149843101-34997c0c-94a1-4e95-96c0-b8285b3a3947.png)
