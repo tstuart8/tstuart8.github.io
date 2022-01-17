@@ -11,3 +11,9 @@ I built a workforce simulator in the R package shiny to estimate utilization wit
 ### SLA Simulation
 
 I used the simpy library in Python to build a simulation for reducing the SLAs guaranteed by a workforce. See the code here [SLA Simulation](https://github.com/tstuart8/SLA-Simulator)
+
+## Academic Projects
+
+### Final Project: Exercise Quality and Sleep Programs effect on Cancer
+
+I analyzed the effect of sleep programs and exercise quality on cancer patients fatigue and quality of life. See the code here [Exercise and Sleep](https://github.com/tstuart8/Final_Project)
